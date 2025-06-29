@@ -1,7 +1,7 @@
 # <img src="https://cs.wellesley.edu/~btjaden/TermNet/img/Hairpin_A.png" width=100> [TerminatorNet](https://cs.wellesley.edu/~btjaden/TermNet) <img src="https://cs.wellesley.edu/~btjaden/TermNet/img/Hairpin_B.png" width=100>
 ==========
 
-### [TerminatorNet](https://cs.wellesley.edu/~btjaden/TermNet) is a tool for predicting intrinsic ***transcription terminators*** in bacteria<BR><BR>
+### [TerminatorNet](https://cs.wellesley.edu/~btjaden/TermNet) is a tool for identifying intrinsic ***transcription terminators*** in bacteria<BR><BR>
 
 EXAMPLE USAGE: &nbsp;&nbsp;&nbsp;&nbsp;`python TerminatorNet.py -f *.fa`<BR>
 EXAMPLE USAGE: &nbsp;&nbsp;&nbsp;&nbsp;`python TerminatorNet.py -f *.fa -m model.pkl -n 8`<BR>
